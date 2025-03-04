@@ -1,3 +1,6 @@
+<img src="https://penndentalmedicine.org/wp-content/uploads/2022/11/shutterstock_288954491-scaled-1024x683.jpg" width="500" style="margin-inline: auto;" />
+<br />
+
 Hi there! This is a website I built from Figma template for demonstration to potential employers. <a href="https://yusuf-youth.github.io/Dentist/">Website</a>, <a href="https://www.figma.com/design/r98QZ1FvO1LgaX6b5y9mkZ/Dentist?node-id=0-1&p=f&t=A6ZCsy3qLFGlRScw-0">Template</a>. <br />
 
 <h3>Structure</h3>
