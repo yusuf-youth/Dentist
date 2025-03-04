@@ -1,9 +1,11 @@
 <img src="https://penndentalmedicine.org/wp-content/uploads/2022/11/shutterstock_288954491-scaled-1024x683.jpg" width="500" style="margin-inline: auto;" />
 <br />
 
-Hi there! This is a website I built from Figma template for demonstration to potential employers. <a href="https://yusuf-youth.github.io/Dentist/">Website</a>, <a href="https://www.figma.com/design/r98QZ1FvO1LgaX6b5y9mkZ/Dentist?node-id=0-1&p=f&t=A6ZCsy3qLFGlRScw-0">Template</a>. <br />
+<i>Hi there! This is a website I built from Figma template for demonstration to potential employers.</i> 
 
-<h3>Structure</h3>
+The website is about promoting a dental clinic offering services like root canals, teeth alignment, and cosmetic dentistry. It operates Monday to Saturday, 8:00 AM to 7:00 PM. <a href="https://yusuf-youth.github.io/Dentist/">Website</a>, <a href="https://www.figma.com/design/r98QZ1FvO1LgaX6b5y9mkZ/Dentist?node-id=0-1&p=f&t=A6ZCsy3qLFGlRScw-0">Template</a>. <br />
+
+<h2>Structure</h2>
 The project is structured with following folders: 
 <ul>
   <li>
@@ -20,7 +22,7 @@ The project is structured with following folders:
   </li>
 </ul>
 
-<h3>Features</h3>
+<h2>Features</h2>
 The project has several features: 
 <ul>
   <li>
