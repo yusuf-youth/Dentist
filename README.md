@@ -29,7 +29,10 @@ The project has several features:
     <b>Semantics. </b>The project adheres to semantics, so it uses <code>&lt;articles&gt;</code> for cards, <code>&lt;address&gt;</code> for address information, <code>&lt;time&gt;</code> for dates and so on.
   </li>
   <li>
-    <b>CSS variables. </b>The project uses css variables throughout styles ensuring maintainability, reusability, and consistency of the code.
+    <b>CSS Property Grouping. </b> CSS properties are organized in a consistent and logical order to improve readability, maintainability, and ease of debugging.
+  </li>
+  <li>
+    <b>CSS Variables. </b>The project uses css variables throughout styles ensuring maintainability, reusability, and consistency of the code.
   </li>
   <li>
     <b>Components. </b>The project has independent components such as <code>.button</code>, <code>.input</code>, and others for use in different places on the website. 
@@ -43,5 +46,6 @@ The project has several features:
   </li>
   </li>
 </ul>
+
 <br />
 To wrap it up, the project is built on simple HTML and CSS, and yet it is maintainable, accessible to screen readers, and is written semantically for better SEO.
