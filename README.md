@@ -35,6 +35,9 @@ The project has several features:
     <b>CSS Variables. </b>The project uses css variables throughout styles ensuring maintainability, reusability, and consistency of the code.
   </li>
   <li>
+    <b>Fluid Typography. </b> Headings adapt to different screen sizes without needing media queries, ensuring text looks great on all devices.
+  </li>
+  <li>
     <b>Components. </b>The project has independent components such as <code>.button</code>, <code>.input</code>, and others for use in different places on the website. 
   </li>
   <li>
