@@ -1,5 +1,4 @@
 <img src="images/app.png" width="600" style="margin-inline: auto;" />
-<br />
 
 The website is about promoting a dental clinic offering services like root canals, teeth alignment, and cosmetic dentistry. It operates Monday to Saturday, 8:00 AM to 7:00 PM. <a href="https://yusuf-youth.github.io/Dentist/">Website</a>, <a href="https://www.figma.com/design/r98QZ1FvO1LgaX6b5y9mkZ/Dentist?node-id=0-1&p=f&t=A6ZCsy3qLFGlRScw-0">Template</a>. <br />
 
